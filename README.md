@@ -18,7 +18,15 @@
   <tr>
     <td>顯示卡</td><td>MSI RX 6600XT 8GB</td>
   </tr>
-  <tr>  
+  <tr>
+  <tr>
+    <td>網路卡</td><td>Realtek 811X</td>
+  </tr>
+  <tr>
+   <tr>
+    <td>音效卡</td><td>Realtek ALC889 alcid=2</td>
+  </tr>
+  <tr> 
     <td>固態硬碟</td><td>CRUCIAL MX500 SSD 1TB</td>
   </tr>
   <tr>
