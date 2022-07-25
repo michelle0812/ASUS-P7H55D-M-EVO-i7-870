@@ -25,3 +25,5 @@
     <td>系統</td><td>macOS Monterey 12.5 + OpenCore 0.8.2</td>
   </tr>  
 </table>
+![截圖 2022-07-25 上午10 55 31](https://user-images.githubusercontent.com/79300809/180687699-5228f941-1983-45ed-ade8-7e465ded5d4d.png)
+![截圖 2022-07-25 上午10 55 44](https://user-images.githubusercontent.com/79300809/180687925-e53ca659-3eaf-4fdb-9e83-4389483b7947.png)
