@@ -30,7 +30,7 @@
     <td>固態硬碟</td><td>CRUCIAL MX500 SSD 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.5 + OpenCore 0.8.6</td>
+    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
 </table>
 
